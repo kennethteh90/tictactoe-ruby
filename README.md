@@ -25,4 +25,4 @@ $ ruby tictac_lvl2.rb
 ## Authors
 
 * **Kenneth Teh** - [Kenneth's Github](https://github.com/kennethteh90)
-* **Joelle ** 
+* **Joelle** 
