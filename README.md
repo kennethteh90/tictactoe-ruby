@@ -1,3 +1,5 @@
+> **Maintained lightly** for historical Medium/blog links. Active portfolio: [kennethteh90.github.io](https://github.com/kennethteh90/kennethteh90.github.io).
+
 # Tic-Tac-Toe Game
 
 This Tic-Tac-Toe Game has two levels: human v. human and human v. computer. 
